@@ -22,7 +22,7 @@ function createGallery(galleryItems) {
     7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1)"
     />
   </a>
-</д>`;
+</li>`;
         })
         .join('');
 }
